@@ -1,0 +1,11 @@
+﻿Plant Type_name,Plant Type,Nopal,Altura,base,cm^3,m^3
+Agave lechuguilla ,E1,0,40,625,25000,0.025
+Agave salmiana ,E2,0,40,625,25000,0.025
+Agave scabra ,E3,0,20,625,12500,0.0125
+Agave striata ,E4,0,27.5,625,17187.5,0.0171875
+Opuntia cantabrigiensis ,E5,1,25,625,15625,0.015625
+Opuntia engelmani ,E6,1,25,625,15625,0.015625
+Opuntia robusta ,E7,1,25,625,15625,0.015625
+Opuntia streptacanta ,E8,1,27.5,625,17187.5,0.0171875
+Prosopis laevigata ,E9,0,27.5,625,17187.5,0.0171875
+Yucca filifera ,E10,0,25,625,15625,0.015625
